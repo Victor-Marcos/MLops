@@ -1,6 +1,6 @@
 
 def saludar():
-    ("Hello world")
+    print("Hello world")
 saludar()
 
 
